@@ -1,0 +1,6 @@
+crewai[tools]>=0.108.0
+yfinance>=0.2.40
+beautifulsoup4>=4.12.3
+requests>=2.32.0
+pytest>=8.3.0
+python-dotenv>=1.0.1

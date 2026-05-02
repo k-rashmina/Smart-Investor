@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# Reports (optional - include if you want to share sample reports)
+# reports/*.md
+
+# Runtime logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
